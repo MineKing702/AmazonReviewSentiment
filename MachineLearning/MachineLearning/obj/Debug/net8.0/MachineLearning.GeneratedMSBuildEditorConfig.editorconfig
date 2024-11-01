@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = MachineLearning
-build_property.ProjectDir = C:\Users\beywh\source\repos\MachineLearning\MachineLearning\
+build_property.ProjectDir = C:\Users\beywh\Documents\Github\AmazonReviewSentiment\MachineLearning\MachineLearning\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
